@@ -1,4 +1,4 @@
-# React_CustomerTrainings_Task2
+# React_CustomerTrainings
 CRUD functions ADD/DELETE/UPDATE . networking fetch()
 
 ![1](https://user-images.githubusercontent.com/35599620/49650106-e0682d80-fa33-11e8-828b-35fdfab822a0.png)
