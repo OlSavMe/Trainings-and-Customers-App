@@ -13,7 +13,7 @@
     "react-csv": "^1.0.19",
     "react-dom": "^16.6.3",
     "react-moment": "^0.8.4",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "2.1.1",
     "react-skylight": "^0.5.1",
     "react-table": "^6.8.6",
